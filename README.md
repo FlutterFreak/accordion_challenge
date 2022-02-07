@@ -10,7 +10,7 @@ Lodgify - Flutter Technical Challenge
    i was able to know what state application is in at any point in time.I was able to record every single user interaction in
    the application for updating UI where needed.
 5. I have built small reusable widgets to make the code efficient and look cleaner.
-7. i have also written unit test for Group widget and task widget.
+7. I have also written unit test for Group widget and task widget.
 8. I have used a package named percent_indicator for showing progress bar, because building it myself
    would have required a bit more time and effort, hence percentage text in progress bar is a little deviated from design,
    but i tried to match everything else according to figma.
