@@ -14,7 +14,7 @@ Lodgify - Flutter Technical Challenge
 8. i have used a package named percent_indicator for showing progress bar, because building it myself
    would have required a bit more time and effort, hence percentage text in progress bar is a little deviated from design,
    but i tried to match everything else according to figma.
-9. ihave not used exact paddings and marrgin from figma at some places so that app looks good on mobile device too,
+9. I have not used exact paddings and margin from figma at some places so that app looks good on mobile device too,
    as design in figma have more width than a mobile device.
 
  Steps to run the app:
